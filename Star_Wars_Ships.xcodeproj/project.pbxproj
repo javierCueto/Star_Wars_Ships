@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CF3B2F5323CBEBA2000231B3 /* Star_Wars_Ships.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Star_Wars_Ships.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF3B2F5323CBEBA2000231B3 /* Star Wars Ships.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Star Wars Ships.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF3B2F5623CBEBA2000231B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF3B2F5823CBEBA2000231B3 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		CF3B2F5A23CBEBA2000231B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		CF3B2F5423CBEBA2000231B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CF3B2F5323CBEBA2000231B3 /* Star_Wars_Ships.app */,
+				CF3B2F5323CBEBA2000231B3 /* Star Wars Ships.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = Star_Wars_Ships;
 			productName = Star_Wars_Ships;
-			productReference = CF3B2F5323CBEBA2000231B3 /* Star_Wars_Ships.app */;
+			productReference = CF3B2F5323CBEBA2000231B3 /* Star Wars Ships.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.javiercueto.Star-Wars-Ships";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Star Wars Ships";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.javiercueto.Star-Wars-Ships";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Star Wars Ships";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
